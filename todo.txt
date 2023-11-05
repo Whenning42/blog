@@ -1,0 +1,32 @@
+- Deploy onto divpq.com
+
+- Write the about section
+
+- Project/Article backlog
+  - Computer Graphics
+    - Efficient terrain rendering (LOD + tiles + stitching)
+  - ML
+    - Graph Inference
+    - The family tree of RL algorithms
+      - Really try to understand the symbols, equations, and code here
+  - Math
+    - Stats
+    - Probability
+    - Learning models
+      - Ouroboros at scale
+      - Classifier joint learning
+      - Single shot learning for Localization + Reward Functions
+  - Programming Languages
+    - Julia
+      - Probably strong across the board
+      - Startup times could be faster
+      - JIT seems like unnecessary overhead?
+    - Nim
+    - Crystal
+    - DreamLang
+      - C/Python/Julia hybrid
+      - AOT compilation for simplicity
+      - No .h/.cpp split
+      - Straightforward datastructures
+      - Static typing
+

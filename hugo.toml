@@ -1,0 +1,4 @@
+baseURL = 'https://divpq.com/'
+languageCode = 'en-us'
+title = "William's Blog"
+theme = 'mini'
